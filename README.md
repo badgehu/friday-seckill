@@ -1,2 +1,3 @@
 # friday-seckill
-秒杀
+firday
+秒杀系统设计
